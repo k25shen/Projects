@@ -1,2 +1,2 @@
 # Projects
-Some small projects I worked
+Some small projects I worked on
